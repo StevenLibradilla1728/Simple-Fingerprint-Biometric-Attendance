@@ -1,1 +1,1 @@
-![MasterHead](https://github.com/Simple-Fingerprint-Biometric-Attendance/Screenshot (3641).png)
+<img src="https://github.com/StevenLibradilla1728/Simple-Fingerprint-Biometric-Attendance/Screenshot (3641).png">
